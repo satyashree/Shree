@@ -1,7 +1,8 @@
 REM dbdrv: none
         /*=======================================================================+
  	 |  Copyright (c) 2009 Oracle Corporation Redwood Shores, California, USA|
- 	 |                            All rights reserved.                       |
+ 	 |                            All rights reserved. 
+	 |Added new line for github testing
  	 +=======================================================================*/
  
  /* $Header: poxrespo.sql 120.0.12010000.4 2010/06/09 00:12:31 vrecharl noship $ */
